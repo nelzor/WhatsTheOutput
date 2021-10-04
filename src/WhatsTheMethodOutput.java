@@ -8,8 +8,7 @@ public class WhatsTheMethodOutput {
         int thisYear = 2010;
         int nextYear;
         int thisMonth;
-        //asdasdasdas
-        //lkjhgiuooiuiopyiuuyiuo
+
 
         nextYear = ++thisYear + CENTURY % 333;
         thisMonth = leap(nextYear,28);
